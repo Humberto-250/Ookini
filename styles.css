@@ -1,0 +1,51 @@
+body{
+    background-color: #6683b2;
+    font-family: "Lexend Exa", sans-serif;
+    color: #EEEEEE;
+}
+h1{
+    color:#9e4747 ;
+    font-size:45px;
+}
+.Titulo{
+    margin: 1.5rem;
+    padding: 0.25rem;
+    text-align: center;
+    font-size: 55px;
+}
+header{
+    padding: 1.5rem 2rem;
+    border-bottom:2.5px solid #000814;
+}
+nav a{
+    color: #bde1da;
+}
+main{
+    padding: 3rem 2rem;
+    max-width:800px;
+    margin: 0 auto;
+}
+.metodo-titulos{
+    font-size: 1.2rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-bottom: 0.25rem; 
+    color:#771919 ;
+}
+.Precio{
+    color: #000000;
+}
+.Info-Cafes{
+    font-size: 15px;
+    text-align: justify;
+}
+.footer{
+    text-align: center;
+    font-size: 17px;
+}
+#Cantidad-Reservas{
+    color: #000000;
+}
+#Boton-Reservar{
+    font-family:"Lexend Exa", sans-serif;
+}
